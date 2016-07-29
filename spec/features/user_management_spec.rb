@@ -1,4 +1,3 @@
-require 'web_helper'
 
 feature 'User can sign up' do
   scenario 'I can sign up as a new user' do
